@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Created-By: 10.0.1 (Oracle Corporation)
+
+Name: malicepackage
+Java-Card-CAP-Creation-Time: Thu Jul 05 09:36:41 CEST 2018
+Java-Card-Converter-Version: 1.3
+Java-Card-Converter-Provider: Sun Microsystems Inc.
+Java-Card-CAP-File-Version: 2.1
+Java-Card-Package-Version: 1.0
+Java-Card-Package-Name: malicepackage
+Java-Card-Package-AID: 0x10:0x02:0x03:0x04:0x05:0x06:0x07:0x08:0x09:0x
+ 00
+Java-Card-Applet-1-Name: MaliceApplet
+Java-Card-Applet-1-AID: 0x10:0x02:0x03:0x04:0x05:0x06:0x07:0x08:0x09:0
+ x00:0x00
+Java-Card-Imported-Package-1-AID: 0xa0:0x00:0x00:0x00:0x62:0x01:0x01
+Java-Card-Imported-Package-1-Version: 1.3
+Java-Card-Imported-Package-2-AID: 0xa0:0x00:0x00:0x00:0x62:0x00:0x01
+Java-Card-Imported-Package-2-Version: 1.0
+Java-Card-Integer-Support-Required: FALSE
+
